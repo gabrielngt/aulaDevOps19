@@ -1,3 +1,3 @@
 # aulaDevOps19
-Primeira Aula
-Gabriel Nagata
+Primeira Aula<br>
+Gabriel Nagata<br>
